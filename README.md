@@ -1,3 +1,18 @@
+## Abstract
+
+You can play this game [here](https://kadiace.github.io/2023F_CS489_FeedLovers).
+
+> Hello, you are **Feed**, developed for our platform's **_content recommendation algorithm_**.
+
+## How To Play
+
+- To survive, you should reach the goal of each **Round**.
+- You get 16 consumers and 12 contents for each **Wave**.
+- You play a simple **matching game** every wave.
+- Pick up the contents right, and drop them to the appropriate consumer left.
+- You get $100 per one successful matching.
+- **That's all!** Thank you for enjoying this project!
+
 ## Environment
 
 ```bash
@@ -20,20 +35,8 @@ Then you can run the project with this command:
 
 When you activate this project at local, port is set to 3000 by default.
 
-## Abstract
-
-You are given the role of **Feed**, the algorithm of contents platform.
-
-In the game, you have to earn a target amount of money within a time.
-
-Pick up the contents right, and drop them to the appropriate consumer left.
-
-That's it. How will you face the situations that appear in the game?
-
-Please enjoy this game!
+---
 
 ```
-Tip: If you feel hard to clear this game, you can adjust the difficulty in src/components/Round.tsx
+This is toy project for KAIST CS489, 2023F.
 ```
-
-> This is toy project for KAIST CS489, 2023F.
